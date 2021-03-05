@@ -779,7 +779,7 @@ case 'timer':
 					buffer = await getBuffer(`https://imgur.com/${meme.hash}.jpg`)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: '.......'})
 					break
-                case 'dono':
+				case 'dono':
 					memein = await kagApi.memeindo()
 					buffer = await getBuffer(`https://images.app.goo.gl/em68SRVMeDhR5L1x6`)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*𝗡𝗢𝗠𝗘:* 𝗔𝗡𝗚𝗘𝗟𝗢 𝗞𝗜𝗖𝗞-𝗔𝗦𝗦\n*𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣:*Wa.me/+556992482009\n*𝘆𝗼𝘂𝘁𝘂𝗯𝗲:*https://youtube.com/channel/UCPtLWfe5t-46bvD0Iomr7LA'})
