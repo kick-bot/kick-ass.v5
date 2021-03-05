@@ -1,5 +1,1 @@
-# whatsapp-kick
-
-
-
-NAO KIBA N FDP 😡
+# whatsapp-kicko
